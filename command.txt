@@ -1,7 +1,12 @@
-# one time each project to start git
+# one time each project to start git (one time bolte ki bojhai mane ei project e kaj korte korte kaj off kore diye abr open korle ki abr git initialize kora lagbe?)
 git init
+
+# every time to add 
 git add .
+
+
 git commit -m "first commit"
+
 git branch -M main
 git remote add origin https://github.com/SadAfrin/my-first-github.git
 git push -u origin main
